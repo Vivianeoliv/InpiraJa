@@ -1,0 +1,23 @@
+#t2{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(44, 135, 158);
+    padding: 20px;
+    font-size: 20px;
+
+}
+.CaixaAmarela {
+        background-color: rgba(28, 211, 28, 0.795);
+        padding: 20px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        margin: 0 auto;
+        max-width: 45%;
+}
+
+body{
+    background-color:antiquewhite
+}

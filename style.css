@@ -1,11 +1,24 @@
+.LogoTitulo{ 
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh; 
+}
+
 #t2{
-    color:rgb(0, 0, 0);
     text-align: center;
     background-color: rgb(44, 135, 158);
     padding: 20px;
     font-size: 20px;
-
 }
+
+
+.icons {
+        width: 20px;
+        height: 20px;
+        margin-right: 10px;}
+
 .CaixaAmarela {
         background-color: rgba(28, 211, 28, 0.795);
         padding: 20px;
@@ -16,8 +29,15 @@
         position: relative;
         margin: 0 auto;
         max-width: 45%;
+        
 }
 
 body{
     background-color:antiquewhite
+}
+
+.linkedin img {
+    width: 30px;
+    height: auto;
+    margin: 0 10px;
 }
